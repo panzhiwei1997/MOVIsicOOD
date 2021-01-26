@@ -42,9 +42,14 @@
 * **桃胶鸽子蛋** 一道甜品，质地浓郁味道香醇搭配奇特
 * **皮皮虾两吃** 个头不大但是肉质饱满，椒盐与虾肉结合在一起就懂得了这为什么是最经典的虾蛄做法，生腌部分鲜美，体验原始的海鲜风味
 * **凉拌海蜇干** 够脆
+
 ![老扁酒家1](https://github.com/panzhiwei1997/MOVIsicOOD/blob/main/Food_image/%E8%80%81%E6%89%81%E9%85%92%E5%AE%B61.PNG)
 ![老扁酒家2](https://github.com/panzhiwei1997/MOVIsicOOD/blob/main/Food_image/%E8%80%81%E6%89%81%E9%85%92%E5%AE%B62.PNG)
 
+
+##### 4. 温岭嵌糕炊饭 
+一个糯米团子卷一切，浇上一勺卤汁，一口下去肉蛋蔬菜全都有，口感复杂味道复杂，正是这种复合口感加上卤汁的味道使得每一个吃到这个的人都欲罢不能。再来一碗豆腐脑（甜的咸的都行），这道早餐，美味而且令人满足
+![温岭嵌糕炊饭](https://github.com/panzhiwei1997/MOVIsicOOD/blob/main/Food_image/%E6%B8%A9%E5%B2%AD%E5%B5%8C%E7%B3%95%E7%82%8A%E9%A5%AD.PNG)
 
 
 
