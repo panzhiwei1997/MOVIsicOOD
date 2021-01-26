@@ -18,7 +18,7 @@
 #### 台州市区（黄岩区与椒江区）
 ##### 1.老台州 
 糟羹、食饼筒、扁食、姜汤面，反正看名字猜不出来是啥，点就完事了，上来的菜感觉平平无奇，吃一口竟然打开了新世界。食饼筒全场最佳，丰富的馅料给予了丰富的口味与复杂的口感，糟羹看似平平无奇但是蕴藏的鲜美只有吃了才知道，姜汤面中规中矩，扁食就是普通的蒸馄饨。
-![老台州](https://github.com/panzhiwei1997/MOVIsicOOD/blob/main/Food_image/%E8%80%81%E5%8F%B0%E5%B7%9E.PNG)
++
 
 ##### 2. 新荣记（中心大道店）（2020黑珍珠二钻） 
 这家餐厅多牛前面说过了，直接介绍菜品
@@ -51,8 +51,8 @@
 
 桂花龙眼鸡头米
 鸡头米弹牙的同时带了些软糯，桂花还有龙眼的香气充分浸润到糖水中，回味无穷
-
-
+![新荣记1](https://github.com/panzhiwei1997/MOVIsicOOD/blob/main/Food_image/%E6%96%B0%E8%8D%A3%E8%AE%B01.PNG)
+![新荣记2](https://github.com/panzhiwei1997/MOVIsicOOD/blob/main/Food_image/%E6%96%B0%E8%8D%A3%E8%AE%B02.PNG)
 
 
 
