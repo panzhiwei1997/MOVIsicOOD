@@ -4,3 +4,5 @@
 
 名字的意思是movie+music+food，不过我应该只会移植影评和食评内容。
 
+## Food.md是食评，Movie.md是影评
+
